@@ -1,4 +1,4 @@
-var  a,b,c,e,r,t:integer;
+
 
 begin 
     Writeln('v vedit a');
